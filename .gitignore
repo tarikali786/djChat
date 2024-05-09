@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+
+# Database
+db.sqlite3
+
+# Environment variables
+.env
+
+# Compiled Python files
+__pycache__/
+
+# macOS system files
+.DS_Store
